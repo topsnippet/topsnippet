@@ -811,6 +811,9 @@ p {
   @media (max-width: 767px) {
     .header-hero-image {
       padding-top: 30px; } }
+.navbar-brand img {
+    width: 63% !important;
+}
 
 /*===========================
       03.BRAND css 
